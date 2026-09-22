@@ -1,0 +1,4 @@
+!.gitignore
+img/*.jpg
+!img/citra_simpang.jpg
+!img/simpang.jpg
