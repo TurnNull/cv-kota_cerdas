@@ -1,0 +1,7 @@
+!.gitignore
+img/*.jpg
+!img/simpang.jpg
+!img/simpang_gray.jpg
+!img/frame_pertama.jpg
+vid/*.mp4
+!vid/simpang.mp4
