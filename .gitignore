@@ -1,4 +1,8 @@
 !.gitignore
 img/*.jpg
 !img/citra_simpang.jpg
+!img/citra_simpang_malam.jpg
+!img/citra_simpang_biner.jpg
 !img/simpang.jpg
+!img/simpang_malam.jpg
+!img/simpang_biner.jpg
