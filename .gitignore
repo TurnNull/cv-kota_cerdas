@@ -1,5 +1,6 @@
 !.gitignore
 img/*.jpg
+img/*.png
 !img/citra_simpang.jpg
 !img/citra_simpang_malam.jpg
 !img/citra_simpang_biner.jpg
