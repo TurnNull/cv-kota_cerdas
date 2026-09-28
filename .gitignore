@@ -7,3 +7,4 @@ img/*.png
 !img/simpang.jpg
 !img/simpang_malam.jpg
 !img/simpang_biner.jpg
+!img/simpang_clahe.jpg
