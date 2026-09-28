@@ -1,4 +1,5 @@
 !.gitignore
-requirements.txt
-main.ipynb
-img
+img/*.jpg
+img/*.png
+!img/hasil_clahe.jpg
+!img/hasil_simpang_clahe.jpg
