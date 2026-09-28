@@ -1,3 +1,4 @@
 !.gitignore
 requirements.txt
-img/
+main.ipynb
+img

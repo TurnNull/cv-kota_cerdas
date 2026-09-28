@@ -99,6 +99,5 @@ Karena kode tiap praktikum berada di *branch* yang berbeda, ikuti langkah beriku
    python main.ipynb
    ```
 
-
 ---
 💡 *Catatan: Repositori ini dibuat untuk memenuhi tugas akademik mata kuliah Computer Vision Sistem Informasi Kota Cerdas.*
